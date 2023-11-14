@@ -99,5 +99,7 @@ print(tabel)
 ![Screenshot (7)](https://github.com/sentosa2505/PER9/assets/148040303/8fafee9c-3a0b-4383-89ec-3fbe13cd92c9)
 
 <h1>FLOWCHART</h1>
-![ss39](https://github.com/sentosa2505/PER9/assets/148040303/601650e0-9ca3-41d8-8a97-fe20bf16e52c)
 
+
+
+![ss39](https://github.com/sentosa2505/PER9/assets/148040303/8ae9f0b3-711a-4ae1-b1d9-d52a0ae350d3)
